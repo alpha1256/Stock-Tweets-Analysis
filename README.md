@@ -1,5 +1,5 @@
 # Stock-Tweets-Analysis
-This project allows user to analysis to do basic tweet analysis of ticker symbols 
+This project allows user to analysis to do basic sentiment analysis of tweets of different ticker symbols 
 
 ## How To
 <ol>
@@ -8,4 +8,4 @@ This project allows user to analysis to do basic tweet analysis of ticker symbol
 </ol>
 
 ## Future Update
-At the moment a rudimentary analysis is done using words. But I plan to use google to analyze sentiments on the tweets. 
+At the moment a rudimentary sentiment analysis is done using words. But I plan to use google to analyze sentiments on the tweets. 
