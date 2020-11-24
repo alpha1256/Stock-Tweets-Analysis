@@ -7,5 +7,10 @@ This project allows user to analysis to do basic sentiment analysis of tweets of
   <li> They will then type in ticker symbol </li>
 </ol>
 
+## Libraries
+ `Plotly` and `tweepy` are required to run this. Do `pip install plotly` and `pip install tweepy`
+ 
+
+
 ## Future Update
 At the moment a rudimentary sentiment analysis is done using words. But I plan to use google to analyze sentiments on the tweets. 
