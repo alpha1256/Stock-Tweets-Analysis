@@ -1,5 +1,5 @@
 # Stock-Tweets-Analysis
-This project allows user to analysis to do basic sentiment analysis of tweets of different ticker symbols 
+This project allows user to do basic sentiment analysis of tweets of different ticker symbols 
 
 ## How To
 <ol>
