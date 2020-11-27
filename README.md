@@ -6,7 +6,7 @@ This project allows user to do basic sentiment analysis of tweets of different t
   <li>Users will need to add their twitter api credentials </li>
   <li> They will then type in ticker symbol </li>
 </ol>
-![Added example input](/src/example_input.png)
+![Screenshot](https://github.com/alpha1256/Stock-Tweets-Analysis/blob/main/src/example_input.PNG?raw=true "Title")
 
 ## Libraries
  `Plotly` and `tweepy` are required to run this. Do `pip install plotly` and `pip install tweepy`
