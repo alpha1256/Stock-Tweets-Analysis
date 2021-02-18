@@ -6,7 +6,7 @@ This project allows user to do basic sentiment analysis of tweets of different t
   <li>Users will need to add their twitter api credentials </li>
   <li> They will then type in ticker symbol </li>
 </ol>
-![](example_input.png)
+When prompted to enter ticker symbol do an example like this $TSLA
 
 ## Libraries
  `Plotly` and `tweepy` are required to run this. Do `pip install plotly` and `pip install tweepy`
