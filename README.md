@@ -3,15 +3,15 @@ This project allows user to do basic sentiment analysis of tweets of different t
 
 ## How To
 <ol>
-  <li>Users will need to add their twitter api credentials </li>
-  <li> They will then type in ticker symbol </li>
+  <li>Add your twitter api credentials </li>
+  <li>Enter the desired ticker symbol </li>
 </ol>
 When prompted to enter ticker symbol do an example like $TSLA
 
 *Note the classifier works the same way*
 
 ## Libraries
- `Plotly` and `tweepy` are required to run this. Do `pip install plotly` and `pip install tweepy`
+ This is a python project. `Plotly` and `tweepy` are required to run this. To install using pip `pip install plotly` and `pip install tweepy`
  
 
 
